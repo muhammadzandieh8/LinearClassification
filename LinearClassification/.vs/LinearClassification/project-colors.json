@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "984e36a0-d1f4-4ecc-9415-0a3be0ebf9d6": {
+      "ProjectGuid": "984e36a0-d1f4-4ecc-9415-0a3be0ebf9d6",
+      "DisplayName": "SciChart_ScatterChart",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
